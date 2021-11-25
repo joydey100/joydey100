@@ -2,7 +2,6 @@
 
 
 ![Github Cover](https://imgur.com/FzUmkFp.png)
-### Here are some ideas about me
 
 - 🏫 I am studying B.Sc in Psychology at [Jagannath University](https://www.jnu.ac.bd/)
 - 🌱 I'm currently Learning Next.js, React Native, TypeScript
