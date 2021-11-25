@@ -3,7 +3,7 @@
 
 ![Github Cover](https://imgur.com/FzUmkFp.png)
 
-- 🏫 I am studying B.Sc in Psychology at [Jagannath University](https://www.jnu.ac.bd/)
+- 🏫 I am now studying B.Sc in Psychology at [Jagannath University](https://www.jnu.ac.bd/)
 - 🌱 I'm currently Learning Next.js, React Native, TypeScript
 - 💻 Most used code `console.log()`
 - 📫 My Portfolio: [Joy Dey](https://joydey100.github.io/personal/)
